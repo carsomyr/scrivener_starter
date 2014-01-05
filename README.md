@@ -1,9 +1,9 @@
 # Scrivener Starter Repository
 
 [Scrivener](http://www.literatureandlatte.com/scrivener.php) is a writing
-application geared toward structuring and editing novel- and thesis-sized works.
-It is mainly used by writers and academics to organize works that would
-otherwise be unwieldy in a linear editor.
+application geared towards structuring and editing novel- and thesis-sized
+works. It is mainly used by writers and academics to organize works that
+would otherwise be unwieldy in a linear editor.
 
 Scrivener projects are layed out as application bundles with the .scriv
 extension, and, as it turns out, are amenable to Git version control: That is to
@@ -44,7 +44,7 @@ The following workflow will send you on your way.
 
 ### License
 
-    Copyright 2012 Roy Liu
+    Copyright 2012-2014 Roy Liu
 
     Licensed under the Apache License, Version 2.0 (the "License"); you may not
     use this file except in compliance with the License. You may obtain a copy

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2012-04-24 00:00:00 +0000">
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2012-04-24 00:00:00 +0000" Modified="2012-04-24 00:00:00 +0000">
             <Title>Draft</Title>
@@ -21,7 +21,7 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="CAFEBABE-0000-0000-0000-000000000000" Color="0.784026 0.815614 0.850358">
+        <Collection Type="Binder" ID="CAFEBABE-0000-0000-0000-000000000000" Color="0.784753 0.815752 0.848702">
             <Title>Binder</Title>
         </Collection>
         <Collection Type="RecentSearch" ID="DEADBEEF-0000-0000-0000-000000000000" Color="0.922 0.91 0.98">
